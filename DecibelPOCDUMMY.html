@@ -228,7 +228,7 @@
             Initialize(function (speechSdk) {
                 SDK = speechSdk;
                 startBtn.disabled = false;
-                voiceoutput("Hello Sir ! I'm your tableau  voice assistant,how can i help you ?",1)
+                voiceoutput("Hello Sir ! I'm your takeda tableau  voice assistant,how can i help you ?",1)
             });
         });
 		
@@ -242,7 +242,7 @@
 				//}
 			var speech = new SpeechSynthesisUtterance(text);
 			speech.lang = 'en-UK';
-			speech.voice = voices[1]
+			speech.voice = voices[4]
 			window.speechSynthesis.speak(speech);
 			if (flag==1)
 			{
@@ -250,7 +250,7 @@
 			}
 			else if (flag == 2)
 			{
-			setTimeout(voiceoutput, 10000);
+			setTimeout(voiceoutput, 20000);
 			}
            
 			}
