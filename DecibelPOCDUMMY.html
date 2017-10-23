@@ -228,7 +228,7 @@
             Initialize(function (speechSdk) {
                 SDK = speechSdk;
                 startBtn.disabled = false;
-                voiceoutput("Hello! I'm your tableau voice assistant,how can i help you ?",1)
+                voiceoutput("Hello ! I'm your tableau voice assistant,how can i help you ?",1)
             });
         });
 		
@@ -242,7 +242,7 @@
 				//}
 			var speech = new SpeechSynthesisUtterance(text);
 			speech.lang = 'en-US';
-			speech.voice = voices[4]
+			speech.voice = voices[2]
 			window.speechSynthesis.speak(speech);
 			if (flag==1)
 			{
