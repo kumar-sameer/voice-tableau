@@ -46,7 +46,7 @@
 	},
 	{
 		"id":"9",
-		"name":"View",
+		"name":"view",
 		"site":"https://us-east-1.online.tableau.com/#/site/takrd/views/C16021_PRO_View_SIT_Workbook/PROViewDashboard?:iid=1"
 	},
 	{
@@ -64,26 +64,11 @@
 		"name":"question",
 		"site":"https://us-east-1.online.tableau.com/#/site/takrd/views/C16021_PRO_View_SIT_Workbook/PRO-QuestionWiseAnalysis?:iid=3"
 	},
-	
-	
-	
-	
-	
-	
-	
-	
 	{
 		"id":"13",
 		"name":"conmed",
 		"site":"https://us-east-1.online.tableau.com/#/site/takrd/views/C16021_Patient_Profiling_SIT_Workbook_3_Death_AE_Labs_Exposure_ConMeds/ConMedReview?:iid=6"
 	},
-	
-	
-	
-	
-	
-	
-	
 	
 	{
 		"id":"14",
@@ -91,32 +76,16 @@
 		"site":"https://us-east-1.online.tableau.com/#/site/takrd/views/C16021_Patient_Profiling_SIT_Workbook_3_Death_AE_Labs_Exposure_ConMeds/ExposureReview?:iid=6"
 	},
 	
-	
-	
-	
-	
-	
 	{
 		"id":"15",
 		"name":"death",
 		"site":"https://us-east-1.online.tableau.com/#/site/takrd/views/C16021_Patient_Profiling_SIT_Workbook_3_Death_AE_Labs_Exposure_ConMeds/DeathAnalysis?:iid=6"
 	},
 	
-	
-	
-	
-	
-	
 	{
 		"id":"16",
 		"name":"medical",
 		"site":"https://us-east-1.online.tableau.com/#/site/takrd/views/C16021_Patient_Profiling_SIT_Workbook_3_Death_AE_Labs_Exposure_ConMeds/MedicalHistory?:iid=6"
 	}
-	
-	
-	
-	
-	
-	
 	
 ]}
