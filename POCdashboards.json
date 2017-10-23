@@ -43,6 +43,15 @@
 		"id":"8",
 		"name":"test",
 		"site":"https://tabtest2.clearlight.deloitteinnovation.us/t/IAAP/views/ExecutiveDashboard/GlobalQualityPerformance"
+	},
+	{
+		"id":"9",
+		"name":"pro view",
+		"site":"https://us-east-1.online.tableau.com/#/site/takrd/views/C16021_PRO_View_SIT_Workbook/PROViewDashboard?:iid=1"
+	},
+	{
+		"id":"10",
+		"name":"compliance",
+		"site":"https://us-east-1.online.tableau.com/#/site/takrd/views/C16021_PRO_View_SIT_Workbook/CompletionComplianceRates?:iid=1"
 	}
-		
 ]}
