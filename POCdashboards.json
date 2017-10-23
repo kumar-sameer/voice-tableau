@@ -58,6 +58,11 @@
 		"id":"11",
 		"name":"patient",
 		"site":"https://us-east-1.online.tableau.com/#/site/takrd/views/C16021_PRO_View_SIT_Workbook/PRO-PatientView?:iid=3"
+	},
+	{
+		"id":"11",
+		"name":"question",
+		"site":"https://us-east-1.online.tableau.com/#/site/takrd/views/C16021_PRO_View_SIT_Workbook/PRO-QuestionWiseAnalysis?:iid=3"
 	}
 	
 ]}
