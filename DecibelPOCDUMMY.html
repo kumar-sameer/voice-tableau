@@ -16,7 +16,7 @@
 
 <img src="mic.png" id="speakAgainsmall" class="sabutton" hidden="" title="Click to speak again">
 <img src="bg13.jpg" class="bg_img" alt="background">
-<div class="speak-home">
+<div class="speak-home">x5 +qw	 
 <button id="startBtn" class="stbutton" disabled="disabled" hidden="">Start</button>
 <button id="stopBtn" class="spbutton" disabled="disabled" hidden="">Stop</button>
 <center><img src="mic.png" id="speakAgainbig" alt="Mic" class="mic" title="Click to speak again"> </center>
@@ -228,7 +228,7 @@
             Initialize(function (speechSdk) {
                 SDK = speechSdk;
                 startBtn.disabled = false;
-                voiceoutput("Helloooo ! I'm your takeda tableau  voice assistant,how can i help you ?",1)
+                voiceoutput("Helloooo ! I'm your takeda tableau voice assistant,how can i help you ?",1)
             });
         });
 		
@@ -380,7 +380,7 @@
 			$.ajax({
 			async: false,
 			dataType : 'json',
-			url: "https://sharat543.github.io/POCfields.json",
+			url: "https://kumar-sameer.github.io/voice-tableau/POCfields.json",
 			type : 'GET',
 			success: function(data) {
 					for (var f3 = 0; f3 < data['fields'].length; f3++) {
@@ -491,7 +491,7 @@
 			$.ajax({
 			async: false,
 			dataType : 'json',
-			url: "https://sharat543.github.io/POCvalues.json",
+			url: "https://kumar-sameer.github.io/voice-tableau/POCvalues.json",
 			type : 'GET',
 			success: function(data) {
 				for (var c = 0; c < data['values'].length; c++) {
@@ -509,7 +509,7 @@
 			$.ajax({
 			async: false,
 			dataType : 'json',
-			url: "https://sharat543.github.io/POCfields.json",
+			url: "https://kumar-sameer.github.io/voice-tableau/POCfields.json",
 			type : 'GET',
 			success: function(data) {
 				for (var d = 0; d < data['fields'].length; d++) {
