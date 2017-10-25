@@ -46,6 +46,12 @@
 		"name":"Product",
 		"choosetype":"filter",
 		"db":"sales distribution"
+	},
+	{
+		"id":"QUESTION_CAT",
+		"name":"QUESTION_CAT",
+		"choosetype":"filter",
+		"db":"compliance"
 	}
 
 ]}
