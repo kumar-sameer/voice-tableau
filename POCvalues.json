@@ -95,18 +95,18 @@
 		"db":"sales distribution"
 	},
 	{
-		"id":"MY20",
-		"name":"MY20",
+		"id":"MY 20",
+		"name":"MY 20",
 		"db":"compliance"
 	},
 	{
-		"id":"QLQ C30",
-		"name":"QLQ C30",
+		"id":"QLQ",
+		"name":"QLQ",
 		"db":"compliance"
 	},
 	{
-		"id":"EQ 5D 3L",
-		"name":"EQ 5D 3L",
+		"id":"EQ",
+		"name":"EQ",
 		"db":"compliance"
 	}
 ]}

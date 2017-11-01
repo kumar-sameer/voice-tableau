@@ -48,8 +48,8 @@
 		"db":"sales distribution"
 	},
 	{
-		"id":"QUESTION_CAT",
-		"name":"QUESTION_CAT",
+		"id":"QUESTION_CAT_NEW",
+		"name":"QUESTION_CAT_NEW",
 		"choosetype":"filter",
 		"db":"compliance"
 	}
